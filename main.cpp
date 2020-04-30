@@ -19,7 +19,7 @@ int middle_index=0;
 
 bool is_exist=false;
 
-void sort(int);				//Algorithm to sort a list.
+void sort(int);				//An Algorithm to sort a list.
 void find_middle_index();	//Finds the middle index of a list.
 void sum_data(int);			//Sums the values of list.
 int find_mode();		//Finds the modal value in a list.
